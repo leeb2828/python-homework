@@ -1,5 +1,7 @@
 These are all the programming assignments I completed for the book "Starting out with Python", fourth edition by Tony Gaddis<br />
 
+<br />
+
 <p align="center">Programming Assignments</p>
 
 <span>10.</span> Tuition Increase <br />
