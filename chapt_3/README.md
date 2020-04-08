@@ -1,8 +1,10 @@
 These are all the programming assignments I completed for the book "Starting out with Python", fourth edition by Tony Gaddis<br />
 
+<br />
+
 <p align="center">Programming Assignments</p>
 
-<span>1.</span>Day of the Week <br />
+<span>1.</span> Day of the Week <br />
     Write a program that asks the user for a number in the range of 1 through 7. The program
     should display the corresponding day of the week, where: <br />
     1 = Monday
@@ -15,12 +17,12 @@ These are all the programming assignments I completed for the book "Starting out
     The program should display an error message if the user enters a number that is outside the range of 
     1 through 7.<br />
 
-<span>2.</span>Areas of Rectangles<br />
+<span>2.</span> Areas of Rectangles<br />
     The area of a rectangle is the rectangle's length times its width. Write a program that asks for the
     length and width of two rectangles. The program should tell the user which rectangle has the greater area, or
     if the areas are the same.
 
-<span>3.</span>Age Classifier<br />
+<span>3.</span> Age Classifier<br />
     Write a program that asks the user to enter a person's age. The program should display a message indicating 
     whether the person is an infant, a child, a teenager, or an adult.
     Following are the guidelines:
@@ -42,7 +44,7 @@ These are all the programming assignments I completed for the book "Starting out
 
 <br />
 
-<span>15.</span>Time Calculator <br />
+<span>15.</span> Time Calculator <br />
     Write a program that asks the user to enter a number of seconds and works as follows:
       - There are 60 seconds in a minute. If the number of seconds entered by the user is greater than or equal to 60,
         the program should convert the number of seconds to minutes and seconds.
