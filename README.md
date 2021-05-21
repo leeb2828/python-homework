@@ -2,7 +2,7 @@ These are all the programming assignments I completed for the book "Starting out
 
 <br />
 
-<p align="center">How to run these programs from the terminal</p>
+<h4 align="center">How to run these programs from the terminal</h4>
 First, check if your have python installed. From the command line, run:
 
 ```
