@@ -1,5 +1,10 @@
 These are all the programming assignments I completed for the book "Starting out with Python", fourth edition by Tony Gaddis
 
+#### check if maven is already installed
+```
+$ mvn --version
+```
+
 <br />
 
 <p align="center">How to run these programs from the terminal</p>
